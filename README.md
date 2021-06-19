@@ -20,5 +20,8 @@
 #### 7. Check the results in `export`
 
 
+(I didnt wrote the instrution but I mean I don't want to spend any time on correct things above anyway so good luck folks)
+
+
 The project is based on https://github.com/jywarren/fisheyegl
 
